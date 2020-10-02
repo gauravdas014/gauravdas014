@@ -9,8 +9,6 @@
 
 <br/>
 
-<img  src='https://tenor.com/view/gif-18655255.gif' align='right'>
-
 ### About me!
 
 - 🔭 I’m currently working on MERN Stack projects
