@@ -7,8 +7,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gauravdas014.gauravdas014)
 [![GitHub followers](https://img.shields.io/github/followers/gauravdas014.svg?style=social&label=Follow)](https://github.com/gauravdas014?tab=followers)
 
-<br/>
-
 ### About me!
 
 - 🔭 I’m currently working on MERN Stack projects
