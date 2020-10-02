@@ -9,6 +9,12 @@
 
 <br/>
 
+<img src='https://tenor.com/view/computer-nerds-geeky-coding-hack-gif-14794084.gif' align='right'>
+
+<br/>
+
+### About me!
+
 - 🔭 I’m currently working on MERN Stack projects
 - 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking to collaborate on web development projects
@@ -16,7 +22,6 @@
 - 💬 Ask me about web development and Cloud (☁)
 - 📫 How to reach me: gauravdas014@gmail.com
 - 😄 Pronouns: he/his/him
-<!-- - ⚡ Fun fact: ... -->
 
 <br/>
 <br/>
