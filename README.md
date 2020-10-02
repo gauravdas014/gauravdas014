@@ -9,4 +9,7 @@
 - 😄 Pronouns: he/his/him
 <!-- - ⚡ Fun fact: ... -->
 
+<br/>
+<br/>
+
 ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravdas014&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=2b2b52)
