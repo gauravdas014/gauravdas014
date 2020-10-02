@@ -9,9 +9,7 @@
 
 <br/>
 
-<img src='https://tenor.com/view/computer-nerds-geeky-coding-hack-gif-14794084.gif' align='right'>
-
-<br/>
+<img style="width: 200px" src='https://tenor.com/view/computer-nerds-geeky-coding-hack-gif-14794084.gif' align='right'>
 
 ### About me!
 
