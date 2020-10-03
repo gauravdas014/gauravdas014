@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Gaurav
+### Hi 👋 , I'm Gaurav
 
 <a target="_blank" href="https://www.linkedin.com/in/gauravdas014/">
   <img align="left" alt="Gaurav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
