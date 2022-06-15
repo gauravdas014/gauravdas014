@@ -9,8 +9,8 @@
 
 ### About me!
 
-- 🔭 I’m currently working on MERN Stack projects
-- 🌱 I’m currently learning Cloud Computing
+- 🔭 I’m currently working on Pipeline Orchestration
+- 🌱 I’m currently learning DevOps practices and AWS
 - 👯 I’m looking to collaborate on web development projects
 - 🤔 I’m looking for help with the things you have experience in
 - 💬 Ask me about web development and Cloud (☁)
