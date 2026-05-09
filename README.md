@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravdas014&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=2b2b52)
+<!---![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravdas014&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=2b2b52)
 
 <!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdas014&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=2b2b52)](https://github.com/gauravdas014)
 --->
