@@ -4,8 +4,9 @@
   <img align="left" alt="Gaurav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gauravdas014.gauravdas014)
+<!---![visitors](https://visitor-badge.laobi.icu/badge?page_id=gauravdas014.gauravdas014)
 [![GitHub followers](https://img.shields.io/github/followers/gauravdas014.svg?style=social&label=Follow)](https://github.com/gauravdas014?tab=followers)
+---->
 
 ### About me!
 
